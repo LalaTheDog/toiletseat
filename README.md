@@ -15,7 +15,15 @@ I then replicated the outline in illustrator, and used a cricut to cut the shape
 
 I then used the vector file to extrude the 3d model out in fusion 360 and generally model the object as desired.
 
+It was cut into 4 to facilitate printing on printers will smaller print beds.
+
+![Screenshot 2023-10-18 223612](https://github.com/LalaTheDog/toiletseat/assets/64767518/c3b1fa4f-26be-48d8-8cb0-139f0a7ee01a)
+
+
 I used a phone scanner to scan the toilet into a mesh model which is pretty rough, and looked to see if it matched my model.
+
+![IMG_7376](https://github.com/LalaTheDog/toiletseat/assets/64767518/e3956cf2-6a75-460a-8a55-ce93bee5d15a)
+
 
 ![Screenshot 2023-10-18 220805](https://github.com/LalaTheDog/toiletseat/assets/64767518/241d7b73-e6d1-46ab-8368-2b32a8515d79)
 

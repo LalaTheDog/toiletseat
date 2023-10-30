@@ -45,6 +45,8 @@ It was then sprayed again with the white plastidip before it really got a chance
 
 Lala was confused by the seat, probably smells strongly of the paint, and it also feels weird and changes how her feet can be positioned. She usually leaves one pad hanging on the inside edge, probably to know where the ledge is. Pretending to go into her crate with food was enough to light a fire under her butt to get her to do what I asked instead of just standing there and alternate looking at the toilet and me.
 
+Typically if she's disinterested in something, if I act like I want it, suddenly she wants it 100x more. The moment I don't want it anymore, she doesn't either. I guess dogs are not all that different than humans.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0RVw_okE6QU/0.jpg)](https://youtu.be/0RVw_okE6QU)
 
 A new model was made, with ridges and a differently shaped hole.  The geometry of the center flange was also slightly adjusted.

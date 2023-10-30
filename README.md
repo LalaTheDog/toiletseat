@@ -38,8 +38,9 @@ Some dimension gaps were noted. 6mm width and 2.5mm height.
 It was coated in Gorilla clear spray, and the top was coated with the white plasti dip
 It was pretty smooth so it was painted with the black plasti dip with a brush, two coats, then sand was sprinkled all over it
 It was then sprayed again with the white plastidip before it really got a chance to dry
+![InShot_20231030_141906600](https://github.com/LalaTheDog/toiletseat/assets/64767518/14ad88e2-d5fb-420e-9bf5-49c799cbb9db)
 
-![InShot_20231030_141507858](https://github.com/LalaTheDog/toiletseat/assets/64767518/ee522319-2a20-44df-b863-19cca46093ec)
+
 ![InShot_20231030_141920419](https://github.com/LalaTheDog/toiletseat/assets/64767518/c471404a-2f70-4272-8506-192d89c89b91)
 
 Lala was confused by the seat, probably smells strongly of the paint, and it also feels weird and changes how her feet can be positioned. She usually leaves one pad hanging on the inside edge, probably to know where the ledge is. Pretending to go into her crate with food was enough to light a fire under her butt to get her to do what I asked instead of just standing there and alternate looking at the toilet and me.

@@ -28,3 +28,29 @@ I used a phone scanner to scan the toilet into a mesh model which is pretty roug
 ![Screenshot 2023-10-18 220805](https://github.com/LalaTheDog/toiletseat/assets/64767518/241d7b73-e6d1-46ab-8368-2b32a8515d79)
 
 The seat was printed in polycarbonate.
+
+![InShot_20231030_141507858](https://github.com/LalaTheDog/toiletseat/assets/64767518/688f26d1-da32-401f-8278-318d7f947c19)
+
+Some dimension gaps were noted. 6mm width and 2.5mm height.
+
+![20231030_140912](https://github.com/LalaTheDog/toiletseat/assets/64767518/a41ff88d-e883-443a-8c97-9f48946efe56)
+
+It was coated in Gorilla clear spray, and the top was coated with the white plasti dip
+It was pretty smooth so it was painted with the black plasti dip with a brush, two coats, then sand was sprinkled all over it
+It was then sprayed again with the white plastidip before it really got a chance to dry
+
+![InShot_20231030_141507858](https://github.com/LalaTheDog/toiletseat/assets/64767518/ee522319-2a20-44df-b863-19cca46093ec)
+![InShot_20231030_141920419](https://github.com/LalaTheDog/toiletseat/assets/64767518/c471404a-2f70-4272-8506-192d89c89b91)
+
+Lala was confused by the seat, probably smells strongly of the paint, and it also feels weird and changes how her feet can be positioned. She usually leaves one pad hanging on the inside edge, probably to know where the ledge is. Pretending to go into her crate with food was enough to light a fire under her butt to get her to do what I asked instead of just standing there and alternate looking at the toilet and me.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0RVw_okE6QU/0.jpg)](https://youtu.be/0RVw_okE6QU)
+
+A new model was made, with ridges and a differently shaped hole.  The geometry of the center flange was also slightly adjusted.
+
+![Screenshot 2023-10-30 144002](https://github.com/LalaTheDog/toiletseat/assets/64767518/cbe088ce-90ba-4af1-a646-19bef4666745)
+
+It was printed in PETG this time.
+
+
+

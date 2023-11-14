@@ -49,6 +49,10 @@ Typically if she's disinterested in something, if I act like I want it, suddenly
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0RVw_okE6QU/0.jpg)](https://youtu.be/0RVw_okE6QU)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AzDsTydvyec/0.jpg)](https://youtu.be/AzDsTydvyec)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IX3H9Qvbffo/0.jpg)](https://youtu.be/IX3H9Qvbffo)
+
 A new model was made, with ridges and a differently shaped hole.  The geometry of the center flange was also slightly adjusted.
 
 ![Screenshot 2023-10-30 144002](https://github.com/LalaTheDog/toiletseat/assets/64767518/cbe088ce-90ba-4af1-a646-19bef4666745)
@@ -56,4 +60,12 @@ A new model was made, with ridges and a differently shaped hole.  The geometry o
 It was printed in PETG this time.
 
 
+![InShot_20231114_142916448](https://github.com/LalaTheDog/toiletseat/assets/64767518/eb39a9fb-d999-41a0-98cb-bda58abaf820)
+
+The gaps were filled with waterproof epoxy putty and the entire model was sprayed with the gorilla clear spray. The bottom was then coated in the black plasti dip.  The top was then coated with clear paint on flex seal and sprinkled with fine sand.  As of 12 hours later, it's still tacky, so cure time might be much longer than the plasti dip.
+
+
+![InShot_20231114_142951156](https://github.com/LalaTheDog/toiletseat/assets/64767518/0ed05f1b-d172-496a-82c5-5f0fbe4c68cf)
+
+It may take a few days before it's cured enough to coat with the white plasti dip spray.
 

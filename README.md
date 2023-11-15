@@ -69,3 +69,8 @@ The gaps were filled with waterproof epoxy putty and the entire model was spraye
 
 It may take a few days before it's cured enough to coat with the white plasti dip spray.
 
+The plasti dip peels freely from the cured flex seal paint on. This could be a feature, or a problem. For now I think it's more of a problem. I think the gorilla + plasti dip paint on + sand + plasti dip spray is a better combo. It also cures faster, but I can't remove the flex seal reasonably, so maybe for next time.
+
+I find the cured flex seal to feel slippery, which is the opposite of what I want, so besides waterproofing it provides no benefit, since all the others also waterproof. It also cures really slow. Unless you want a surface that plasti-dip can peel from for easy replacement, I don't think it's useful.
+
+

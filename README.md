@@ -69,8 +69,24 @@ The gaps were filled with waterproof epoxy putty and the entire model was spraye
 
 It may take a few days before it's cured enough to coat with the white plasti dip spray.
 
+It took about 30 hours to cure. I then coated it with white spray plasti-dip.
+
 The plasti dip peels freely from the cured flex seal paint on. This could be a feature, or a problem. For now I think it's more of a problem. I think the gorilla + plasti dip paint on + sand + plasti dip spray is a better combo. It also cures faster, but I can't remove the flex seal reasonably, so maybe for next time.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RBduAb9LdPU/0.jpg)](https://youtu.be/RBduAb9LdPU)
+
+
 I find the cured flex seal to feel slippery, which is the opposite of what I want, so besides waterproofing it provides no benefit, since all the others also waterproof. It also cures really slow. Unless you want a surface that plasti-dip can peel from for easy replacement, I don't think it's useful.
+
+I peeled off as much of the flex seal as possible and recoated the top with black plasti dip paint on. I then sprinkled it with sand, and coated it with plasti dip white spray. It's very lumpy, since I was unable to get all of the flex seal off, but it has a pretty grippy surface.
+
+Seems fine though, lala doesn't have a problem with it, besides it being a new seat which probably feels a bit different.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_8LVXEE4Dok/0.jpg)](https://youtu.be/_8LVXEE4Dok)
+
+
+The third print will be a similar model in PC again. This one has 5 connection pegs in the joints and the central flange is a tiny tiny bit bigger.
+
+I plan to glue it with scigrip 16, then coat it in the gorilla clear spray first, then paint the top in plasti-dip clear paint on.  Depending on the grippiness, sand + plasti-dip spray is an option.
 
 
